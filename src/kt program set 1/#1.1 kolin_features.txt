@@ -1,0 +1,27 @@
+Whats new in Kotlin, that doesn't exist in Java ??
+
+	1. string interpolation
+	2. if, when, functions as expression
+	3. labelling and break out of any loop from a nested loop structure
+	4. continue any loop in a nested structure
+	5. default argument: functions
+
+
+Features of Kotlin ->
+
+	1. Kotlin is now Official Android Language
+	2. Developed by JetBrains
+			-> JetBrains built IntelliJ IDEA
+				-> Andorid Studio is built on the top of IntelliJ IDEA
+	3. Kotlin is an Open Source Project primarily under Apache 2 licence
+	4. Kotlin is more flexible language than Java
+	5. Its more powerful language
+	6. Android apps can be built on Kotlin along with using Java and
+	   C++ alongside
+	7. Kotlin is more powerful than Java
+			-> Expressive
+			-> Concise
+	8. Safety features
+			-> Immutable
+			-> nullability: No more null pointer exceptions
+	9. Kotlin is a JVM (Java Virtual Machine) Language
