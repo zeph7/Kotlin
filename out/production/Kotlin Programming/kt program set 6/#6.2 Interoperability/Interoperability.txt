@@ -1,0 +1,35 @@
+Kotlin and Java are actually Interoperable
+that is you can call a java function from a kotlin file and vice versa
+
+You can have JAVA and KOTLIN file within the same project
+
+
+How JAVA code runs?
+
+-> 1. Compile Time [Handled by JDK that contains the compiler]
+
+   		First the compiler converts the [Java Code(.java)] -> [Byte Code(.class)]
+   		Byte Code is JVM understandable simple code
+   		Byte Code is actually the .class file
+
+   2. Runtime[Handled by JVM]
+
+   		Then at Runtime JVM executes the code
+
+
+How Kotlin code runs?
+
+-> 1. Compile Time [Handled by JDK that contains the compiler]
+
+   		First the compiler converts the [Kotlin Code(.kt)] -> [Byte Code(.class)]
+   		Byte Code is JVM understandable simple code
+   		Byte Code is actually the .class file
+
+   2. Runtime[Handled by JVM]
+
+   		Then at Runtime JVM executes the code
+
+So actually the whole code in kotlin file is converted to the similar
+corresponding java code in .class file
+So now the java class file and kotlin class file both are in java format
+So they become interoperable
