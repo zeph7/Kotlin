@@ -1,6 +1,6 @@
 # Kotlin
 
-Kotlin.. a very Powerful Language!!
+Kotlin...  a very Powerful Language !!
 
 ![](https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png)
 
@@ -27,6 +27,7 @@ Kotlin.. a very Powerful Language!!
   
   ![](https://cdn57.androidauthority.net/wp-content/uploads/2017/06/Kotlin-vs-Java-boilerplate-840x324.png)
   
+ 
   
 ## Whats new in Kotlin, that doesn't exist in Java ??
 
@@ -45,18 +46,18 @@ Kotlin.. a very Powerful Language!!
   
     1. Install Java JDK (Java Development Kit)
     
-      ![](http://www.qawebtester.com/wp-content/uploads/2018/05/java_jdk_instalation.jpg)
+![](http://www.qawebtester.com/wp-content/uploads/2018/05/java_jdk_instalation.jpg)
     
        Since Kotlin is Interoperable with Java because Kotlin file at compile time is converted to .class file (Byte Code) which contain 
        a whole kotlin code converted to Java code. As Kotlin and Java both runs on JVM (Java Virtual Machine).
        
     2. Install IntelliJ IDEA
         
-       ![](https://cdn.journaldev.com/wp-content/uploads/2017/11/kotlin-intellij-home-screen.png)
+![](https://cdn.journaldev.com/wp-content/uploads/2017/11/kotlin-intellij-home-screen.png)
     
        A JetBrains developed platform for Java or kotlin Users. To implement your Java or Kotlin codes as well as a better interface 
        with optimised features for projects including Open Source.
        
   
-    ![](https://www.tutorialspoint.com/kotlin/images/kotlin.jpg)
+![](https://www.tutorialspoint.com/kotlin/images/kotlin.jpg)
     
