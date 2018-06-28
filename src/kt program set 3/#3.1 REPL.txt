@@ -1,0 +1,33 @@
+			
+				REPL - READ EVAL PRINT LOOP
+
+
+In IntelliJ IDEA you will find above - Tools(click) -> Kotlin(click) -> Kotlin REPL(click)
+
+This will open a window at the bottom
+
+Purpose of REPL is - Inside REPL you can type your Kotlin Code as quickly as possible
+	(just like in python shell)
+
+Press - CTRL + Enter (to execute the code)
+
+example-
+
+	-> 1 + 2	(CTRL + Enter)
+	= 3
+	-> 10 / 7
+	= 1
+	-> 10.0 / 7
+	= 1.42857
+	-> print("Hello")
+	= Hello
+
+Use of REPL - If you want to run a short code from inside a bigger code without
+running the whole code
+
+example-
+
+	-> var str = "Hello"	(Press Enter only)
+	-> str = str + " World"	(Press Enter only)
+	-> print(str)			(Press CTRl + Enter)
+	= Hello World
