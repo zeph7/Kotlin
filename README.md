@@ -4,6 +4,12 @@ Kotlin...  a very Powerful Language !!
 
 ![](https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png)
 
+	Goto src (source) folder in this repository. Inside that you would find -> Kotlin (kt) program set files sequence wise.
+	Starting from set 1 it contain ordered .txt and .kt files, to make understand the flow of language Kotlin or say the
+	programming in Kotlin. Have a Glance at that. Also the out folder contains the class files of all the programs
+	in the project. The work is done on IntelliJ IDEA -  A Kotlin Implementation Platform.
+
+
 
 ## Features of Kotlin ->
 
@@ -29,6 +35,7 @@ Kotlin...  a very Powerful Language !!
   
  
   
+  
 ## Whats new in Kotlin, that doesn't exist in Java ??
 
 	1. string interpolation
@@ -38,6 +45,8 @@ Kotlin...  a very Powerful Language !!
 	5. default argument: functions
 
   ![](https://fossbytes.com/wp-content/uploads/2017/10/learn-kotlin-programming.jpg)
+
+
 
 
 ## How to CODE in KOTLIN ?
@@ -65,3 +74,5 @@ Kotlin...  a very Powerful Language !!
  
 ![](https://www.tutorialspoint.com/kotlin/images/kotlin.jpg)
     
+
+Thank You !!!
