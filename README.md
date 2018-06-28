@@ -4,10 +4,11 @@ Kotlin...  a very Powerful Language !!
 
 ![](https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png)
 
-	Goto src (source) folder in this repository. Inside that you would find -> Kotlin (kt) program set files sequence wise.
-	Starting from set 1 it contain ordered .txt and .kt files, to make understand the flow of language Kotlin or say the
-	programming in Kotlin. Have a Glance at that. Also the out folder contains the class files of all the programs
-	in the project. The work is done on IntelliJ IDEA -  A Kotlin Implementation Platform.
+
+Goto src (source) folder in this repository. Inside that you would find -> Kotlin (kt) program set files sequence wise.
+Starting from set 1 it contain ordered .txt and .kt files, to make understand the flow of language Kotlin or say the
+programming in Kotlin. Have a Glance at that. Also the out folder contains the class files of all the programs
+in the project. The work is done on IntelliJ IDEA -  A Kotlin Implementation Platform.
 
 
 
