@@ -1,0 +1,25 @@
+In Kotlin we have some concept related to ranges of numbers or characters
+Generally used in looping
+
+examples ->
+	
+	var r1 = 1..5
+	// This range contain the no. 1,2,3,4,5 - stored in r1
+
+	val r2 = 5 downTo 1
+	//this range contain the no. 5,4,3,2,1 - stored in r2
+
+	val r3 = 5 downTo 1 step 2
+	//this range contain the no. 5,3,1
+
+	var r4 = "a".."z"
+	//or var r4 = 'a'..'z'
+	//this range contain the values from a to z
+
+	var isPresent = 'c' in r4	//to check c in r4 or not
+
+	var CountDown = 10.downTo(1)
+	//this range contain 10,9,..1
+
+	var moveUp = 1.rangeTo(10)
+	//this range contain 1,2,3..10
